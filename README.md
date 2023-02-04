@@ -5,7 +5,7 @@ This project is still in development.
 
 Code for Angular app: https://github.com/Cori1109/NgSpringShoppingStore-frontend
 
-#Features
+# Features
 - Token Based User Authentication(JWT)
 - Product Search
 - Product Catalog
@@ -17,14 +17,14 @@ Code for Angular app: https://github.com/Cori1109/NgSpringShoppingStore-frontend
 - PDF Report Generation (Order Acknowledgment) - TODO
 
 
-#Technologies:
+# Technologies:
 - Spring Boot
 - Mongo DB
 - Angular
 - Redis for Caching
 - Elastic Search
 
-#Images of Application:
+# Images of Application:
 1. Home Page
 
 ![Home Page](https://github.com/Cori1109/SpringAngularEcommerce/blob/Master/src/main/resources/images/homepage.PNG)
