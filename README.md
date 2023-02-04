@@ -39,7 +39,7 @@ Code for Angular app: https://github.com/Cori1109/NgSpringShoppingStore-frontend
 
 4. Product Page
 
-![Product Page](https://github.com/SaiUpadhyayula/Cori1109/SpringAngularEcommerce/blob/Master/src/main/resources/images/product-page.PNG)
+![Product Page](https://github.com/Cori1109/SpringAngularEcommerce/blob/Master/src/main/resources/images/product-page.PNG)
 
 5. Product Page - Review Section
 
